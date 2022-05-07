@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: a186f8a87ca4f4d3aa864638ad5dfb65, type: 3}
+  iconMaxWidth: 192
+  title: SK HyperCasual Starter Package
+  sections:
+  - heading: Welcome
+    text: "Welcome to SK HyperCasual Starter Pack. This pack created and edited by
+      Semih Kubilay \xC7etin. Contact addresses is in below"
+    linkText: 
+    url: 
+  - heading: "Semih Kubilay \xC7etin"
+    text: Creator
+    linkText: Linkedin Profile
+    url: "https://www.linkedin.com/in/semih-kubilay-\xE7etin-2071851a5/"
+  - heading: Thanks for using our SDK :)
+    text: 
+    linkText: 
+    url: 
+  loadedLayout: 1
